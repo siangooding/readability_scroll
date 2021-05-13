@@ -1,6 +1,6 @@
 # Predicting Text Readability from Scrolling Interactions
 
-Dataset containing scroll interactions of 518 partcipants reading Advanced and Elementary texts from the [OneStopEnglish corpus](https://github.com/nishkalavallabhi/OneStopEnglishCorpus). Participants answer multiple choice reading comprehension questions from [OneStopQA](https://github.com/berzak/onestop-qa).
+Dataset containing scroll interactions of 518 partcipants reading advanced and elementary texts from the [OneStopEnglish corpus](https://github.com/nishkalavallabhi/OneStopEnglishCorpus). Participants answer multiple choice reading comprehension questions from [OneStopQA](https://github.com/berzak/onestop-qa).
 
 ### Example
 
