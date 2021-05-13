@@ -9,17 +9,17 @@ Dataset containing scroll interactions of 518 partcipants reading Advanced and E
 
 <a name="statistics">
 
-## Statistics (v2.0)
+## Participant Demographics 
 
 </a>
 
 | Proficiency (%) | Education(%) | Age range (%)   | Hours spent reading Englisdh 
 | ---     | ---          | ---       | ---     |
-| Native  46.69  | Graduate 53.67           | 18 - 24 18.23     | 0 - 4 24.20  |
-| Near-native 14.75     | Undergraduate 39.51   | 25-34 57.19 | 5 - 9 22.87 |
-| Advanced  27.78  | High School 3.59   |  35-44 13.38 | 10 - 14  11.72|
-| Intermediate  9.83 | Vocational 2.65          | 45-54 8.02    | 15 - 19 7.18 |
-| Beginner  0.95 | No formal  0.57          | 55+ 3.17   | 20 + 33.84|
+| Native | 46.69  | Graduate 53.67           | 18 - 24 |18.23     | 0 - 4 |24.20  |
+| Near-native |14.75     | Undergraduate |39.51   | 25-34 |57.19 | 5 - 9 |22.87 |
+| Advanced  |27.78  | High School| 3.59   |  35-44| 13.38 | 10 - 14  |11.72|
+| Intermediate  |9.83 | Vocational |2.65          | 45-54 |8.02    | 15 - 19 |7.18 |
+| Beginner  |0.95 | No formal  |0.57          | 55+ |3.17   | 20 + |33.84|
 
 <a name="files">
 
