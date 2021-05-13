@@ -23,66 +23,7 @@ Dataset containing scroll interactions of 518 partcipants reading Advanced and E
 
 <a name="files">
 
-## Directory Structure 
-
-</a>
-
-**`data_[version]/`**
-
-SR DataViewer Interest Area and Fixation Reports, and syntactic annotations. 
-
-- `sent_ia.tsv` Interest Area report.  
-- `sent_fix.tsv` Fixations report. 
-- `annotations/` Syntactic annotations.
-
-**`participant_metadata/`**
-
-- `metadata.tsv` metadata on participants.
-
-- `test_scores/`
-    - `test_conversion.tsv` unofficial conversion table between standardized proficiency tests (used to convert TOEIC to TOEFL scores).  
-    - `michigan/` Item level responses for the Michigan Placement Test (MPT).   
-    - `comprehension/` Item level responses for the reading comprehension during the eyetracking experiment.  
-
-**`splits/`**
-
-Trial and participant splits.
-
-- `trials/`
-    - `all_trials.txt` trial numbers for all the sentences (1-157).
-    - `shared_trials.txt` trial numbers of the Shared Text regime.
-    - `individual_trials.txt` trial number of the Individual Text regime.
-- `participants/[version]/`
-    - `random_order.csv` random participant order.
-    - `train.csv` train participants.
-    - `test.csv` test participants.
-
-<a name="docs">
-
-**`dataset_analyses.Rmd`**
-
-Analyses for the paper "CELER: A 365 Participants Corpus of Eye Movements in L1 and L2 English Reading".
-Note that this script requires:
-- CELER (in the folder `data_[version]/`) and, 
-- GECO Augmented (in the folder `geco/`). Download [GECO augmented](https://drive.google.com/file/d/1T4qgbwPkdzYmTvIqMUGJlvY-v22Ifinx/view?usp=sharing) with frequency and surprisal values and place `geco/` at the top level of this directory.
-
-## Documentation
-
-</a>
-
-- [Eyetracking Variables](documentation/data_variables.md) Description of the variables in the fixations and interest area reports.
-- [Metadata Variables](documentation/metadata_variables.md) Description of the variables in the participants metadata file.
-- [Language Models](documentation/language_models.md) Details on langugae models for surprisal values.
-- [Syntactic Annotations](documentation/syntactic_annotations.md) Details on syntactic annotations (POS, phrase structure trees, dependency trees).
-- [GECO Augmented](documentation/geco_augmented.md) Details on new fields added to GECO.
-- [Experiment Builder Programs](documentation/EB_programs.md) Information on the EB experiment.
-- [Known Issues](documentation/known_issues.md) Known issues with the dataset.
-
-<a name="cite">
-
 ## Citation
-
-CELER: A 365 Participants Corpus of Eye Movements in L1 and L2 English Reading
 
 TODO: Add citation
 
