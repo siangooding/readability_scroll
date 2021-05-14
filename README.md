@@ -4,7 +4,7 @@ Dataset containing scroll interactions of 518 partcipants reading advanced and e
 
 ## Interface Example
 <img src="scroll.gif" img align="left" alt="drawing" width="300"/>
-<img src="q&a.png" img align="right" alt="drawing" width="300"/>
+<img src="q&a.png" img align="right" alt="drawing" width="600"/>
 
 
 ## Data Description
