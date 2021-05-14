@@ -1,17 +1,16 @@
 # Predicting Text Readability from Scrolling Interactions
 
-Dataset containing scroll interactions of 518 partcipants reading Advanced and Elementary texts from the [OneStopEnglish corpus](https://github.com/nishkalavallabhi/OneStopEnglishCorpus). Participants answer multiple choice reading comprehension questions from [OneStopQA](https://github.com/berzak/onestop-qa).
+Dataset containing scroll interactions of 518 partcipants reading advanced and elementary texts from the [OneStopEnglish corpus](https://github.com/nishkalavallabhi/OneStopEnglishCorpus). Participants answer multiple choice reading comprehension questions from [OneStopQA](https://github.com/berzak/onestop-qa). Study details and preliminary experiments can be found in [our paper](https://arxiv.org/abs/2105.06354). 
 
-### Example
+## Interface Example
+<img src="scroll.gif" img align="left" alt="drawing" width="300"/>
+<img src="q&a.png" img align="right" alt="drawing" width="300"/>
 
-![](scroll.gif)
 
-
-<a name="statistics">
+## Data Description
+TODO: describe data
 
 ## Participant Demographics 
-
-</a>
 
 | Proficiency |(%) | Education|(%) | Age range| (%)   | Hours spent reading English |(%)
 | --- | ---     | --- | ---         | --- | ---      | ---  | ---   |
@@ -21,10 +20,8 @@ Dataset containing scroll interactions of 518 partcipants reading Advanced and E
 | Intermediate  |9.83 | Vocational |2.65          | 45-54 |8.02    | 15 - 19 |7.18 |
 | Beginner  |0.95 | No formal  |0.57          | 55+ |3.17   | 20 + |33.84|
 
-<a name="files">
-
 ## Citation
 
 TODO: Add citation
 
-</a>
+
