@@ -6,7 +6,7 @@ Dataset containing scroll interactions of 598 partcipants reading advanced and e
 
 Text Interface             |  Comprehension Questions
 :-------------------------:|:-------------------------:
-<img src="scroll.gif" alt="drawing" width="300"/>  |  <img src="q&a.png" alt="drawing" width="600"/>
+<img src="img/scroll.gif" alt="drawing" width="300"/>  |  <img src="q&a.png" alt="img/drawing" width="600"/>
 
 
 ## Participant Demographics 
