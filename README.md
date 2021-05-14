@@ -5,6 +5,12 @@ Dataset containing scroll interactions of 518 partcipants reading advanced and e
 ## Interface Example
 <img src="scroll.gif" img align="center" alt="drawing" width="300"/>
 
+<span class="img_container center" style="display: block;">
+    <img alt="test" src="scroll.gif" style="display:block; width="300"; margin-left: auto; margin-right: auto;" title="caption" />
+    <span class="img_caption" style="display: block; text-align: center;">caption</span>
+</span>
+
+
 ## Data Description
 TODO: describe data
 
