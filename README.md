@@ -3,9 +3,7 @@
 Dataset containing scroll interactions of 518 partcipants reading advanced and elementary texts from the [OneStopEnglish corpus](https://github.com/nishkalavallabhi/OneStopEnglishCorpus). Participants answer multiple choice reading comprehension questions from [OneStopQA](https://github.com/berzak/onestop-qa).
 
 ### Interface Example
-<center>
-<img src="scroll.gif" alt="drawing" width="300"/>
-</center>
+<img src="scroll.gif" img align="center" alt="drawing" width="300"/>
 
 ## Participant Demographics 
 
