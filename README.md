@@ -9,10 +9,6 @@ Text Interface             |  Comprehension Questions
 <img src="scroll.gif" alt="drawing" width="300"/>  |  <img src="q&a.png" alt="drawing" width="600"/>
 
 
-
-## Data Description
-TODO: describe data
-
 ## Participant Demographics 
 
 | Proficiency |(%) | Education|(%) | Age range| (%)   | Hours spent reading English |(%)
@@ -22,6 +18,9 @@ TODO: describe data
 | Advanced  |27.78  | High School| 3.59   |  35-44| 13.38 | 10 - 14  |11.72|
 | Intermediate  |9.83 | Vocational |2.65          | 45-54 |8.02    | 15 - 19 |7.18 |
 | Beginner  |0.95 | No formal  |0.57          | 55+ |3.17   | 20 + |33.84|
+
+## Data Description
+TODO: describe data
 
 ## Citation
 
