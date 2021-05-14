@@ -11,7 +11,7 @@ Dataset containing scroll interactions of 518 partcipants reading advanced and e
     <img src="scroll.gif" alt="drawing" width="300"/>
   </div>
   <div class="column">
-    <img src="q&a.png" alt="drawing" width="600"/>
+    <img src="q&a.png" alt="drawing" width="300"/>
   </div>
 </div>
 
