@@ -5,15 +5,17 @@ Dataset containing scroll interactions of 518 partcipants reading advanced and e
 ## Interface Example
 
 
-
-<div class="row">
-  <div class="column">
-    <img src="scroll.gif" alt="drawing" width="300"/>
-  </div>
-  <div class="column">
-    <img src="q&a.png" alt="drawing" width="300"/>
-  </div>
+<div class="image123">
+    <div class="imgContainer">
+        <img src="scroll.gif" alt="drawing" width="300"/>
+        <p>This is image 1</p>
+    </div>
+    <div class="imgContainer">
+         <img src="q&a.png" alt="drawing" width="300"/>
+        <p>This is image 2</p>
+    </div>
 </div>
+
 
 ## Data Description
 TODO: describe data
