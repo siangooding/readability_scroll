@@ -20,7 +20,8 @@ Text Interface             |  Comprehension Questions
 | Beginner  |0.95 | No formal  |0.57          | 55+ |3.17   | 20 + |33.84|
 
 ## Data Description
-TODO: describe data
+p_age	p_other_language	p_proficiency	p_hours_reading	p_education_lvl	elementary_text	elementary_read_value	advanced_text	advanced_read_value	elementary_reading_time_ms	advanced_reading_time_ms	elementary_reading_event_ms	advanced_reading_event_ms	elementary_reading_scroll_event	advanced_reading_scroll_event	elementary_reading_paragraph_visibility	advanced_reading_paragraph_visibility	elementary_reading_span_visibility	advanced_reading_span_visibility	elementary_question_time_ms	advanced_question_time_ms	elementary_question_event_ms	advanced_question_event_ms	elementary_question_scroll_event	advanced_question_scroll_event	elementary_question_paragraph_visibility	advanced_question_paragraph_visibility	elementary_question_span_visibility	advanced_question_span_visibility	elementary_score	advanced_score
+
 
 ## Citation
 
