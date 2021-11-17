@@ -33,7 +33,7 @@ Text Interface             |  Comprehension Questions
 
 ## Citation
 
-@inproceedings{gooding-etal-2021-predicting,
+``` @inproceedings{gooding-etal-2021-predicting,
     title = "Predicting Text Readability from Scrolling Interactions",
     author = "Gooding, Sian  and
       Berzak, Yevgeni  and
@@ -45,7 +45,7 @@ Text Interface             |  Comprehension Questions
     address = "Online",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2021.conll-1.30",
-    pages = "380--390"}
+    pages = "380--390"} ```
 
 
 
